@@ -1,4 +1,4 @@
-# Ex.No:4(E) DESIGN PATTERN  ---- BEHAVIOUR PATTERN
+# Ex.No: 4(E) DESIGN PATTERN  ---- BEHAVIOUR PATTERN
 
 ## QUESTION:
 Create an Article class where changes to the content are saved as mementos. Let the user view and restore any saved version.
