@@ -1,4 +1,4 @@
-# Ex.No:3(C) ABSTRACTION
+# Ex.No: 3(C) ABSTRACTION
 
 ## QUESTION:
 Description:
