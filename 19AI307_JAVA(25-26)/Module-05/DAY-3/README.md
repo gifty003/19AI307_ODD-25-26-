@@ -1,4 +1,4 @@
-# Ex.No:5(C)  FILE HANDLING USING JAVA
+# Ex.No: 5(C)  FILE HANDLING USING JAVA
 ## QUESTION:
 Write a program to count the number of characters in a file.
 
