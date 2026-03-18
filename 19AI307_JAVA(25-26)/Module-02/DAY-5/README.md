@@ -1,4 +1,4 @@
-# Ex.No:2(E) ACCESS MODIFIERS
+# Ex.No: 2(E) ACCESS MODIFIERS
 
 ## QUESTION:
 Write a method that accepts a string and returns whether it contains only lowercase letters or not.
