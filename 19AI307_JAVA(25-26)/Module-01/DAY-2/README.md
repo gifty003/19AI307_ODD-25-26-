@@ -1,4 +1,4 @@
-# Ex.No:1(B) CONDITIONAL STATEMENT
+# Ex.No: 1 (B) CONDITIONAL STATEMENT
 
 ## QUESTION:
 Given a month number (1 to 12), print which quarter of the year it belongs to:
