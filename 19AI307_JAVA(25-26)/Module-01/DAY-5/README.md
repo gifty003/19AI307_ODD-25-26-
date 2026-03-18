@@ -1,4 +1,4 @@
-# Ex.No:1(E) STRINGS AND MATH FUNCTION
+# Ex.No: 1(E) STRINGS AND MATH FUNCTION
 
 ## QUESTION:
 Write a Java program to reverse a given string.
