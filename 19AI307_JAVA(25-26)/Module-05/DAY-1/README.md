@@ -1,4 +1,4 @@
-# Ex.No:5(A) INPUTSTREAMREADER 
+# Ex.No: 5(A) INPUTSTREAMREADER 
 
 ## QUESTION:
 Write a Java program to write characters to a file using FileWriter.
