@@ -1,4 +1,4 @@
-# Ex.No:1(C) LOOPING STATEMENT
+# Ex.No: 1(C) LOOPING STATEMENT
 
 ## QUESTION:
 A left-aligned triangle pattern is a pattern of stars (*) where each row contains an increasing number of stars, aligned to the left side.
