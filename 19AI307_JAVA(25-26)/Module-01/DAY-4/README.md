@@ -1,4 +1,4 @@
-# Ex.No:1(D) ARRAYS
+# Ex.No: 1(D) ARRAYS
 
 ## QUESTION:
 Write a Java program to count how many elements in an array are divisible by 3 or 5
