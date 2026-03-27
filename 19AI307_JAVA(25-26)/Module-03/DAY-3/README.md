@@ -37,9 +37,9 @@ To write a Java program using an abstract class GameScore with subclasses Arcade
 ## PROGRAM:
  ```
 
-Program to implement a Abstraction using Java
-Developed by: CHETHAN KUMAR G
-Register Number: 212222240022
+Program to implement variables and Operators using Java
+Developed by: GIFTSON RAJARATHINAM N
+RegisterNumber: 212222233002
 
 ```
 
