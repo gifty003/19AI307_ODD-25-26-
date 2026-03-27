@@ -38,9 +38,9 @@ To develop a java program to get the month from user and and display appropriate
 
 ## PROGRAM:
  ```
-Program to implement a conditional statement using Java
-Developed by: CHETHAN KUMAR G
-RegisterNumber: 212222240022
+Program to implement variables and Operators using Java
+Developed by: GIFTSON RAJARATHINAM N
+RegisterNumber: 212222233002
 ```
 
 ## SOURCE CODE:
