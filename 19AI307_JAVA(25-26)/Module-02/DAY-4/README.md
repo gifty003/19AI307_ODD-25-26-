@@ -25,9 +25,9 @@ To create a class using parameterized constructor to calculate the area of a rec
 
 ## PROGRAM:
  ```
-Program to implement a Variable scope and Constructor using Java
-Developed by: CHETHAN KUMAR G
-RegisterNumber: 212222240022
+Program to implement variables and Operators using Java
+Developed by: GIFTSON RAJARATHINAM N
+RegisterNumber: 212222233002
 ```
 
 ## SOURCE CODE:
