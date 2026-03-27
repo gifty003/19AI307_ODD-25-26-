@@ -36,9 +36,9 @@ To simulate a radar control system where only one tower instance handles multipl
 
 ## PROGRAM:
  ```
-Program to implement a SOLID Principles in Java Program
-Developed by: CHETHAN KUMAR G
-Register Number: 212222240022
+Program to implement variables and Operators using Java
+Developed by: GIFTSON RAJARATHINAM N
+RegisterNumber: 212222233002
 ```
 
 ## SOURCE CODE:
