@@ -50,9 +50,9 @@ To build an inheritance-based Java program that calculates the final price of go
 
 ## PROGRAM:
  ```
-Program to implement a Inheritance and Aggregation using Java
-Developed by: CHETHAN KUMAR G
-Register Number: 212222240022
+Program to implement variables and Operators using Java
+Developed by: GIFTSON RAJARATHINAM N
+RegisterNumber: 212222233002
 ```
 
 ## SOURCE CODE:
