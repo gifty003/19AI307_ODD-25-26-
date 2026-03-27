@@ -29,9 +29,9 @@ To create a class with private instances variable along with getter and setter m
 
 ## PROGRAM:
  ```
-Program to implement a Access Specifiers using Java
-Developed by: CHETHAN KUMAR G
-RegisterNumber: 212222240022
+Program to implement variables and Operators using Java
+Developed by: GIFTSON RAJARATHINAM N
+RegisterNumber: 212222233002
 ```
 
 ## SOURCE CODE:
