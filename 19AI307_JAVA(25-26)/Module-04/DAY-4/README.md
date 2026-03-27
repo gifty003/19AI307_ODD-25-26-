@@ -19,9 +19,9 @@ To implement the Factory Design Pattern to send different types of notifications
 
 ## PROGRAM:
  ```
-Program to implement a Abstract Factory Pattern using Java
-Developed by: CHETHAN KUMAR G
-Register Number: 212222240022
+Program to implement variables and Operators using Java
+Developed by: GIFTSON RAJARATHINAM N
+RegisterNumber: 212222233002
 ```
 
 ## SOURCE CODE:
