@@ -29,9 +29,9 @@ To demonstrate the use of a synchronized block for safely swapping two integer v
 
 ## PROGRAM:
  ```
-Program to implement a Synchronization concept using Java
-Developed by: CHETHAN KUMAR G
-Register Number: 212222240022
+Program to implement variables and Operators using Java
+Developed by: GIFTSON RAJARATHINAM N
+RegisterNumber: 212222233002
 
 ```
 
