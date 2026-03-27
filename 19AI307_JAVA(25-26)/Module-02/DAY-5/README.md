@@ -28,9 +28,9 @@ To write a method that checks if the word contains lowercase letters or not.
 
 ## PROGRAM:
  ```
-Program to implement a Access Modifiers using Java
-Developed by: CHETHAN KUMAR G
-RegisterNumber: 212222240022
+Program to implement variables and Operators using Java
+Developed by: GIFTSON RAJARATHINAM N
+RegisterNumber: 212222233002
 ```
 
 ## SOURCE CODE:
